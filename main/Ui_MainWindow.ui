@@ -33,6 +33,9 @@
       <height>31</height>
      </rect>
     </property>
+    <property name="styleSheet">
+     <string notr="true">font: 9pt &quot;Cascadia Mono&quot;;</string>
+    </property>
     <property name="text">
      <string>start Connet</string>
     </property>
